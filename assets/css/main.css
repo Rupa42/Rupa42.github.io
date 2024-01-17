@@ -3853,12 +3853,12 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				width: 50%;
+				width: 80%;
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
-				width: 50%;
+				padding: 10rem;
+				width: 100%;
 			}
 
 			#main > .posts > article {
